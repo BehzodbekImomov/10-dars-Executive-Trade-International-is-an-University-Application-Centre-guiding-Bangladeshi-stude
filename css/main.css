@@ -153,3 +153,59 @@ font-size: 23px;
     border-radius: 100%;
     background-color:  rgba(124, 124, 124, 0.318837);
 }
+.box-section3{
+    background-color:  #F2F2F2;;
+}
+.box-sectoin3-title{
+    text-align: center;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+}
+.box-sectoin3-title h2{
+    padding-top: 120px;
+}
+.box-sectoin3-title p{
+    opacity: 0.7;
+    font-size: 22px;
+    padding-top: 25px;
+}
+.box-section3-cards ul li{
+    width: 344px;
+    height: 351px;
+    background-color: 
+    #FFFFFF;
+    box-shadow: 0px 0px 77px rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    padding: 29px 0 0 31px;
+    margin-top: 56px;
+
+}
+.box-section3-cards ul li h3{
+    padding-top: 30px;
+}
+.box-section3-cards ul li p{
+    padding-top: 9px;
+    opacity: 0.6;
+    font-weight: 600;
+}
+.box-section3-cards ul{
+    display: flex;
+   gap: 30px;
+   justify-content: center;
+   flex-wrap: wrap;
+   padding-top: 110px;
+}
+.box-section3-button form{
+    display: flex;
+    gap: 20.51px;
+   align-items: center;
+    padding-top: 25px;
+}
+.box-section3-button form button{
+    border: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #717CFF;
+    font-weight: 600;
+}
